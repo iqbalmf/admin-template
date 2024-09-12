@@ -1,5 +1,5 @@
-# Admin Panel with ReactJS + Vite
+## Admin Panel with ReactJS + Vite
 
-## creating template for Admin panel
+creating template for Admin panel
 
-### using library framer-motion, lucide-react, tailwind-css
+using library framer-motion, lucide-react, tailwind-css
